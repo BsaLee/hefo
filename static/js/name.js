@@ -1,1 +1,1 @@
-﻿document.writeln("版权所有&nbsp;&nbsp;<a target='_blank' href='https://www.kxdao.net/home.php?mod=space&uid=12276' >科学刀</a>");
+﻿document.writeln("版权所有&nbsp;&nbsp;<a target='_blank' href='#' >神仙小分队</a>");
