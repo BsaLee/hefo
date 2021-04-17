@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="refresh" content="0;URL=http://it.rising.com.cn/new2008/404.shtml">
+<title>信息提示</title>
+<style type="text/css">
+<!--
+td {
+	font-family: "宋体";
+	font-size: 14px;
+	text-decoration: none;
+}
+.STYLE1 {
+	color: #990000;
+	font-weight: bold;
+}
+.STYLE3 {color: #0099FF}
+-->
+</style>
+</head>
+
+<body>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="525" height="118" border="0" align="center" cellpadding="00" cellspacing="0">
+  <tr>
+    <td background="http://www.rising.com.cn/RisingError/Error.jpg"><table width="90%" border="0" align="center" cellpadding="00" cellspacing="6">
+      <tr>
+        <td width="17%">&nbsp;</td>
+        <td width="83%"><span class="STYLE1">信息提示</span></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="STYLE3">您访问的页面不存在或已被删除，<a href="http://www.rising.com.cn">返回到首页</a>。</span></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
